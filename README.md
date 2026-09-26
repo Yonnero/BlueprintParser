@@ -1,6 +1,6 @@
 # BlueprintParser | Приложение извлечения данных из конструкторской документации
 
-![Version](https://img.shields.io/badge/Version-0.1.0-blue)
+![Version](https://img.shields.io/badge/Version-0.2.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%2F%20Linux-0078D6)
 ![Architecture](https://img.shields.io/badge/Architecture-Modular%20%2F%20Extensible-orange)
@@ -11,7 +11,7 @@
 
 ---
 
-## Текущие возможности (Модуль PDF v0.1.0)
+## Текущие возможности 
 
 * **Разбор обозначений:** Распознавание типов документов (Сборка `_СБ`, Спецификация `_СП`, Деталь). 
 
