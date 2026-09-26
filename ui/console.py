@@ -4,7 +4,7 @@ from pathlib import Path
 from core.analyzer import PDFAnalyzer
 from reports.excel import ExcelReport
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 
 class ConsoleInterface:
